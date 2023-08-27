@@ -1,4 +1,4 @@
-<h1 align="left">I'm Sonu Kumar</h1>
+<h1 align="left">Sonu Kumar</h1>
 
 ###
 
