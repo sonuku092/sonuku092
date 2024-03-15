@@ -103,4 +103,6 @@
   </a>
 </div>
 
+![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u&count={count})
+
 ###
