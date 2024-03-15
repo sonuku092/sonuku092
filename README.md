@@ -103,6 +103,11 @@
   </a>
 </div>
 
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u&count={count})
+<div align="center">
+  <a href="https://open.spotify.com/user/31w3rn2xkrrs4ijwruixtum7675u">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u&count=4&unique=true" alt="Spotify recently played" />
+  </a>
+</div>
+
 
 ###
