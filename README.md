@@ -97,15 +97,10 @@
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sonuku092/sonuku092/output/github-contribution-grid-snake-dark.svg" />
 </div>
 
-<div align="center">
-  <a href="https://open.spotify.com/user/	31w3rn2xkrrs4ijwruixtum7675u">
-    <img src="[https://spotify-recently-played-readme.vercel.app/api?count=4&unique=true](https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u)https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u" alt="Spotify recently played"   />
-  </a>
-</div>
 
 <div align="center">
   <a href="https://open.spotify.com/user/31w3rn2xkrrs4ijwruixtum7675u">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u&count=4&unique=true" alt="Spotify recently played" />
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31w3rn2xkrrs4ijwruixtum7675u&count={2}" alt="Spotify recently played" />
   </a>
 </div>
 
