@@ -11,8 +11,11 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonuku092&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=sonuku092&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+   <img src="https://github-readme-stats.vercel.app/api?username=sonuku092&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=merko&locale=en&hide_border=false&border_radius=18&card_width=320&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=sonuku092&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=merko&hide_border=false&border_radius=18&order=2" height="150" alt="languages graph"  />
+  <div>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=sonuku092&locale=en&mode=daily&theme=merko&hide_border=false&border_radius=18&card_width=900&order=1" height="150" alt="streak graph"  />
 </div>
 
 ###
@@ -97,6 +100,15 @@
 </div>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/sonuku092/sonuku092/output/github-contribution-grid-snake-dark.svg" />
 </div>
+
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonuku092&radius=16&theme=github-dark&area=true&order=4&hide_title=false&hide_border=false" height="280" alt="activity-graph graph"  />
+</div>
+
+###
 
 
 <div align="center">
