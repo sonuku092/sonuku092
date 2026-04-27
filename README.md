@@ -100,8 +100,6 @@
 
 ###
 
-###
-
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=sonuku092&radius=16&theme=github-dark&area=true&order=4&hide_title=false&hide_border=false" height="280" alt="activity-graph graph"  />
 </div>
