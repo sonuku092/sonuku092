@@ -4,7 +4,7 @@
 <h3 align="left">A passionate software developer from India</h3>
 
 
-###
+
 
 <p align="left">👋 Hello! I'm Sonu Kumar Mukhiya, a tech enthusiast and recent graduate from Atria Institute of Technology with a Bachelor of Engineering in Information Science and Engineering. With a firm foundation in technical knowledge and keen problem-solving acumen, I successfully navigated my academic journey to achieve this milestone.</p>
 
